@@ -12,7 +12,7 @@ Deployed with:
 
 ## 🚀 Live Demo
 
-🔗 **Frontend (Main Link):** [https://your-frontend.vercel.app](https://your-frontend.vercel.app)  
+🔗 **Frontend (Main Link):** [https://adiha-client.vercel.app/](https://adiha-client.vercel.app/)
 🔗 **Backend API:** [https://adiha-server.onrender.com](https://adiha-server.onrender.com) 
 
 ---
